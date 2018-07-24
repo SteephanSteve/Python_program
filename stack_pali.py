@@ -18,6 +18,6 @@ for c in t:
 while not s.isEmpty():
     r=r+s.pop()
 if t==r:
-    print "yes"
+    print "YES"
 else:
-    print "no"
+    print "NO"
